@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![gotutiyan's github stats](https://github-readme-stats.vercel.app/api?username=gotutiyan&count_private=true&show_icons=true&theme=gruvbox)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gotutiyan&theme=gruvbox&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gotutiyan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
